@@ -1,0 +1,1 @@
+The project was an alaysis of Customer transactions to determine certain trends and patterns in the spend. Data cleaning was initially done as there were some missing records. Highlights of the analysis are done on the powerepoint presentation. 
