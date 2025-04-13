@@ -1,1 +1,0 @@
-This poject was for Customer segmentation and analysis of transactions. The data had some missing records, cleaning was done before proceeding to analysis. A summary of the analysis is highlighted in the powerepoint presentation. 
